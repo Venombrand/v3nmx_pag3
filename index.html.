@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>v3nmx_kingx - Mia Khalifa</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2em;
+        }
+        .content {
+            padding: 20px;
+            background: #fff;
+            border-radius: 8px;
+            margin-top: 20px;
+        }
+        footer {
+            background: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+        a {
+            color: #1e90ff;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1><strong>Mia Khalifa</strong></h1>
+    </header>
+    <div class="container">
+        <div class="content">
+            <h2>Welcome to My Personal Page</h2>
+            <p>Hello! I'm v3nmx_kingx. This is a basic personal webpage. Feel free to explore and reach out if you have any questions or need more information.</p>
+            <p>Contact me via email: <a href="mailto:pstigsutig@gmail.com">pstigsutig@gmail.com</a></p>
+            <p>Follow me on <a href="https://facebook.com/venommquotes" target="_blank">Twitter</a> or <a href="https://linkedin.com/in/yourusername" target="_blank">LinkedIn</a>.</p>
+        </div>
+    </div>
+    <footer>
+        <p>&copy; 2024 v3nmx_kingx</p>
+    </footer>
+</body>
+</html>
